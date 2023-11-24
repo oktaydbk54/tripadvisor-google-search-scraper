@@ -1,0 +1,6 @@
+selenium
+requests
+beautifulsoup4
+selenium-wire
+chromedriver-autoinstaller
+pandas
